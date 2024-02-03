@@ -16,8 +16,9 @@ p{
 .book>img{
 	justify-self: center;
 }
-.book>button{
+.book>div{
 	color: #2ecc71;
 	background-color: green;
 	width: 100%;
+	text-align: center;
 }
