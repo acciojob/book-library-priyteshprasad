@@ -16,8 +16,11 @@ p{
 .book>img{
 	justify-self: center;
 }
+.book>h2{
+	color: black;
+}
 .book>div{
-	color: #2ecc71;
+	color: rgb(255, 255, 255);
 	background-color: rgb(46, 204, 113);
 	width: 100%;
 	text-align: center;
